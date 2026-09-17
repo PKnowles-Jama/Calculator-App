@@ -16,7 +16,7 @@ Python/Kivy calculator implementation for Jama feature `SDD-FEAT-1`.
 - `SDD-REQ-11`: Kivy UI
 - `SDD-REQ-12`: clear button clears the display
 
-`SDD-REQ-4` multiplication and `SDD-REQ-13` decimal point were not implemented because their Jama statuses were `Draft`.
+`SDD-REQ-4` multiplication and `SDD-REQ-13` decimal point are not implemented.
 
 ## Run
 
